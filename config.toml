@@ -1,5 +1,5 @@
 baseURL = "https://mobius-group.github.io"
-title = "Möbius Group"
+title = "Möbius Group | Top page"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
